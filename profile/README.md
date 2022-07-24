@@ -1,5 +1,7 @@
 ## About
 
-Companion software for OpenPlotter, OpenCPN, and SignalK.
+Companion software for OpenPlotter, OpenCPN, and SignalK. Written in Python.
 
-![image](https://user-images.githubusercontent.com/453543/180667200-89f4f5fb-e388-4a9a-a71d-ef0aa4760e01.png)
+The idea is to build a more light-weight and energy-efficient alternative to
+OpenCPN and SignalK for low-level NMEA-0183 message brokerage and telemetry
+data processing.
